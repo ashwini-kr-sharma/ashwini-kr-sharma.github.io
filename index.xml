@@ -5,8 +5,7 @@
     <link>ashwini-kr-sharma.github.io/</link>
     <description>Recent content on AK Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2020 12:08:54 +0200</lastBuildDate><atom:link href="ashwini-kr-sharma.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="ashwini-kr-sharma.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>ashwini-kr-sharma.github.io/contact/</link>
@@ -42,33 +41,6 @@
       
       <guid>ashwini-kr-sharma.github.io/about/</guid>
       <description>I am currently a bioinformatics scientist at the Health Data Science Unit, Universitätsklinikum Heidelberg, Germany. I did my doctoral studies from the German Cancer Research Center (DKFZ) and Hans Knöll Institute (HKI). After my PhD, I briefly worked as a scientific associate at The Center for Sepsis Control &amp;amp; Care, Universitätsklinikum Jena. I have a Masters degree in Genomics from the Madurai Kamraj University, India and a Bachelors degree in Biotechnology from Vellore Institute of Technology, India.</description>
-    </item>
-    
-    <item>
-      <title>My third words</title>
-      <link>ashwini-kr-sharma.github.io/posts/00003-post/</link>
-      <pubDate>Mon, 12 Oct 2020 12:08:54 +0200</pubDate>
-      
-      <guid>ashwini-kr-sharma.github.io/posts/00003-post/</guid>
-      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
-    </item>
-    
-    <item>
-      <title>My second words</title>
-      <link>ashwini-kr-sharma.github.io/posts/00002-post/</link>
-      <pubDate>Sun, 11 Oct 2020 12:08:54 +0200</pubDate>
-      
-      <guid>ashwini-kr-sharma.github.io/posts/00002-post/</guid>
-      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
-    </item>
-    
-    <item>
-      <title>My first words</title>
-      <link>ashwini-kr-sharma.github.io/posts/00001-post/</link>
-      <pubDate>Sat, 10 Oct 2020 12:08:54 +0200</pubDate>
-      
-      <guid>ashwini-kr-sharma.github.io/posts/00001-post/</guid>
-      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
     </item>
     
   </channel>
