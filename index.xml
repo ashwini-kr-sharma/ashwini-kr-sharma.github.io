@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AK Sharma</title>
+    <link>ashwini-kr-sharma.github.io/</link>
+    <description>Recent content on AK Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Oct 2020 12:08:54 +0200</lastBuildDate><atom:link href="ashwini-kr-sharma.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>ashwini-kr-sharma.github.io/contact/</link>
+      <pubDate>Thu, 15 Oct 2020 12:09:02 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/contact/</guid>
+      <description>Get in touch  Your message:   Your email:   Find me  </description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>ashwini-kr-sharma.github.io/work/</link>
+      <pubDate>Thu, 15 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/work/</guid>
+      <description>Research projects  Epigenomic analysis of Neuroblastoma Metabolic deregulation in cancer Bayesian networks of epigenetic regulation Computational biology toolbox Deconvolution of immune cell types in mixed tissues Redox signalling in yeast Computational phenotyping Other collaboration projects  Epigenomic analysis of Neuroblastoma Half of the children diagnosed with neuroblastoma have high-risk disease, disproportionately contributing to overall childhood cancer-related deaths. In addition to recurrent gene mutations, there is increasing evidence supporting the role of epigenetic deregulation in disease pathogenesis.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>ashwini-kr-sharma.github.io/publications/</link>
+      <pubDate>Thu, 15 Oct 2020 12:08:40 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/publications/</guid>
+      <description>Forthcomming   Gartlgruber, M, Sharma, AK , Quintero, A, Dreidax, D, Jansky, S, Park, Y, Gogolin, S, Meder, J, Doncevic D, Saary P, Toprak, UH, Ishaque, N, Afanasyeva, E, Koster, J, Versteeg R, Grünewald, TGP, Jones, DTW, Pfister, SM, Henrich, K, Nes, Jv, Herrmann, C, Westermann, F. Super enhancers define regulatory subtypes and cell identity in neuroblastoma. Provisionally accepted in Nature Cancer (2020)
+  Emanuel Schwarz, [alphabetical order starts] Dag Alnæs, Ole A.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>ashwini-kr-sharma.github.io/about/</link>
+      <pubDate>Thu, 15 Oct 2020 12:08:32 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/about/</guid>
+      <description>I am currently a bioinformatics scientist at the Health Data Science Unit, Universitätsklinikum Heidelberg, Germany. I did my doctoral studies from the German Cancer Research Center (DKFZ) and Hans Knöll Institute (HKI). After my PhD, I briefly worked as a scientific associate at The Center for Sepsis Control &amp;amp; Care, Universitätsklinikum Jena. I have a Masters degree in Genomics from the Madurai Kamraj University, India and a Bachelors degree in Biotechnology from Vellore Institute of Technology, India.</description>
+    </item>
+    
+    <item>
+      <title>My third words</title>
+      <link>ashwini-kr-sharma.github.io/posts/00003-post/</link>
+      <pubDate>Mon, 12 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/posts/00003-post/</guid>
+      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
+    </item>
+    
+    <item>
+      <title>My second words</title>
+      <link>ashwini-kr-sharma.github.io/posts/00002-post/</link>
+      <pubDate>Sun, 11 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/posts/00002-post/</guid>
+      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
+    </item>
+    
+    <item>
+      <title>My first words</title>
+      <link>ashwini-kr-sharma.github.io/posts/00001-post/</link>
+      <pubDate>Sat, 10 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/posts/00001-post/</guid>
+      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
+    </item>
+    
+  </channel>
+</rss>

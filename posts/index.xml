@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AK Sharma</title>
+    <link>ashwini-kr-sharma.github.io/posts/</link>
+    <description>Recent content in Posts on AK Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Oct 2020 12:08:54 +0200</lastBuildDate><atom:link href="ashwini-kr-sharma.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My third words</title>
+      <link>ashwini-kr-sharma.github.io/posts/00003-post/</link>
+      <pubDate>Mon, 12 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/posts/00003-post/</guid>
+      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
+    </item>
+    
+    <item>
+      <title>My second words</title>
+      <link>ashwini-kr-sharma.github.io/posts/00002-post/</link>
+      <pubDate>Sun, 11 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/posts/00002-post/</guid>
+      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
+    </item>
+    
+    <item>
+      <title>My first words</title>
+      <link>ashwini-kr-sharma.github.io/posts/00001-post/</link>
+      <pubDate>Sat, 10 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>ashwini-kr-sharma.github.io/posts/00001-post/</guid>
+      <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
+    </item>
+    
+  </channel>
+</rss>
