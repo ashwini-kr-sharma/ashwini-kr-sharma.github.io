@@ -8,12 +8,39 @@
     <language>en</language>
     <lastBuildDate>Sun, 18 Oct 2020 12:08:17 +0200</lastBuildDate><atom:link href="https://ashwini-kr-sharma.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Managing scientific research with social media and technology</title>
+      <title>Building websites using HUGO and Github pages</title>
       <link>https://ashwini-kr-sharma.github.io/posts/00001/</link>
       <pubDate>Sun, 18 Oct 2020 12:08:17 +0200</pubDate>
       
       <guid>https://ashwini-kr-sharma.github.io/posts/00001/</guid>
+      <description>Under construction </description>
+    </item>
+    
+    <item>
+      <title>Managing scientific research with social media and technology</title>
+      <link>https://ashwini-kr-sharma.github.io/posts/00002/</link>
+      <pubDate>Sun, 18 Oct 2020 12:08:17 +0200</pubDate>
+      
+      <guid>https://ashwini-kr-sharma.github.io/posts/00002/</guid>
       <description>Under construction I plan to use this space to talk about interesting papers and some personal musings in the future !!</description>
+    </item>
+    
+    <item>
+      <title>R tricks that you didn&#39;t know !</title>
+      <link>https://ashwini-kr-sharma.github.io/posts/00003/</link>
+      <pubDate>Sun, 18 Oct 2020 12:08:17 +0200</pubDate>
+      
+      <guid>https://ashwini-kr-sharma.github.io/posts/00003/</guid>
+      <description>Under construction </description>
+    </item>
+    
+    <item>
+      <title>Teaching during the times of pandemic</title>
+      <link>https://ashwini-kr-sharma.github.io/posts/00004/</link>
+      <pubDate>Sun, 18 Oct 2020 12:08:17 +0200</pubDate>
+      
+      <guid>https://ashwini-kr-sharma.github.io/posts/00004/</guid>
+      <description>Under construction </description>
     </item>
     
     <item>
@@ -23,6 +50,15 @@
       
       <guid>https://ashwini-kr-sharma.github.io/contact/</guid>
       <description>Get in touch  input[type=text], select, textarea{ width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; resize: vertical; } label { padding: 12px 12px 12px 0; display: inline-block; } input[type=submit] { background-color: #4CAF50; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer; float: right; } .col-75 { float: left; width: 75%; margin-top: 6px; } .row:after { content: &#34;&#34;; display: table; clear: both; } @media screen and (max-width: 600px) { .</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ashwini-kr-sharma.github.io/teaching/</link>
+      <pubDate>Thu, 15 Oct 2020 12:08:54 +0200</pubDate>
+      
+      <guid>https://ashwini-kr-sharma.github.io/teaching/</guid>
+      <description>Data Analysis - Practical training Data Analysis - Project based teaching Research supervision </description>
     </item>
     
     <item>
@@ -40,8 +76,8 @@
       <pubDate>Thu, 15 Oct 2020 12:08:40 +0200</pubDate>
       
       <guid>https://ashwini-kr-sharma.github.io/publications/</guid>
-      <description>Forthcomming   Gartlgruber, M, Sharma, AK , Quintero, A, Dreidax, D, Jansky, S, Park, Y, Gogolin, S, Meder, J, Doncevic D, Saary P, Toprak, UH, Ishaque, N, Afanasyeva, E, Koster, J, Versteeg R, Grünewald, TGP, Jones, DTW, Pfister, SM, Henrich, K, Nes, Jv, Herrmann, C, Westermann, F. Super enhancers define regulatory subtypes and cell identity in neuroblastoma. Provisionally accepted in Nature Cancer (2020)
-  Emanuel Schwarz, [alphabetical order starts] Dag Alnæs, Ole A.</description>
+      <description>Forthcomming   Jansky, S, Sharma, AK , Körber V, Toprak, UH, Gartlgruber, M, Greco, A, Quintero, A, Chomsky, E, Henrich, K, Tanay, A, Herrmann, C, Höfer, T, Westermann, F. Developmental programs in childhood neuroblastoma. Accepted in Nature Genetics (2020)
+  Carlos Ramirez Alvarez, Sharma, AK, Carmon Kee, Leonie Thomas, Steeve Boulant, Carl Herrmann. SPINT2 controls SARS-CoV-2 viral infection and is associated to disease severity.</description>
     </item>
     
     <item>
