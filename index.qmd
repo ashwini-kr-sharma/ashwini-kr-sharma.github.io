@@ -1,7 +1,35 @@
 ---
-title: "ashwini-kr-sharma.github.io"
+title: "Ashwini Kumar Sharma"
+image: images/AKSprofilePic.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  # links:
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://www.linkedin.com/in/samanthacsik/
+  #     target: _blank
+  #   # - icon: twitter
+  #   #   text: Twitter
+  #   #   href: https://twitter.com/SamanthaCsik
+  #   #   target: _blank
+  #   - icon: github
+  #     text: GitHub
+  #     href: https://github.com/samanthacsik
+  #     target: _blank
+  #   - icon: envelope
+  #     text: Email
+  #     href: mailto:scsik@ucsb.edu
 ---
 
-This is a Quarto website.
+::: {#bio}
+I am a Computational Biology Scientist at [GlaxoSmithKline (GSK)](https://www.gsk.com/en-gb/). 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In over 10 years as a computational biologist, my work has broadly revolved around using statistical and computational tools to understand disease causing mechanisms using genomic and epigenomic data.
+
+::: {#landing-icons}
+[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/ashwinkr/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/ashwini-kr-sharma/){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:ashwinkr7@gmail.com)
+:::
+:::

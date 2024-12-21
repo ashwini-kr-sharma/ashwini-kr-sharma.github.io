@@ -3,16 +3,18 @@ project:
   output-dir: docs
   
 website:
-  title: "ashwini-kr-sharma.github.io"
+  title: "AK Sharma"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: solar
     css: styles.css
     toc: true
 
