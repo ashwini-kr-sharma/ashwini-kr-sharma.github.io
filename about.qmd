@@ -1,10 +1,9 @@
 ---
 title: "About"
+subtitle: "I am a Scientific Investigator - Computational Biology at [GlaxoSmithKline](https://www.gsk.com/en-gb/)"
 title-block-banner: true
 ---
-
-I am a Scientific Investigator - Computational Biology at [GlaxoSmithKline (GSK)](https://www.gsk.com/en-gb/). 
-
+  
 ### Academic background
 
 As a postdoc, I worked at the [Health Data Science Unit](https://www.hdsu.org/), Universitätsklinikum Heidelberg, Germany. My research focused on identifying the enhancer-driven regulatory subtypes in Neuroblastoma and understanding its developmental origins.
@@ -18,10 +17,11 @@ I have a Masters degree in Genomics from the [Madurai Kamraj University](http://
 ### Management Skills
 
 - **Cross-functional team leadership:** I have worked in Matrix teams across multiple projects as the Computational Biology project lead
-  - **Strategic planning & Project Management:** I have contributed to wet-lab experiment design involving downstream bioinformatics analysis, planned for Computational Biology experiments, talent resourcing, and timelines across projects
+- **Strategic planning & Project Management:** I have contributed to wet-lab experiment design involving downstream bioinformatics analysis, planned for Computational Biology experiments, talent resourcing, and timelines across projects
 - **Stakeholder management:** I have communicated key high-level insights to senior leaders and decision makers to impact broader company vision and direction.
 - **Scientific communication:** All my projects have involved communicating Computational Biology derived insights to non-experts in interdisciplinary projects to impact decision making
 
+---
 
 ### Technical Skills
 

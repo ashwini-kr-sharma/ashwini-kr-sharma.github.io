@@ -25,8 +25,8 @@ about:
 ---
 
 ::: {#bio}
-I am a Computational Biology Scientist at [GlaxoSmithKline (GSK)](https://www.gsk.com/en-gb/). 
+I am a Computational Biology Scientist at [GlaxoSmithKline (GSK)](https://www.gsk.com/en-gb/)
 
-In over 10 years as a computational biologist, my work has broadly revolved around using statistical and computational tools to understand disease causing mechanisms by integrating data generated using various genomic and epi-genomic technologies.
+I use statistical and computational tools to understand disease causing mechanisms by integrating data generated from various genomic and epi-genomic technologies
 
 :::
