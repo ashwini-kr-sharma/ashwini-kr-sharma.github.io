@@ -1,5 +1,6 @@
 ---
 title: "About"
+title-block-banner: true
 ---
 
 I am a Scientific Investigator - Computational Biology at [GlaxoSmithKline (GSK)](https://www.gsk.com/en-gb/). 
@@ -29,19 +30,19 @@ I have a Masters degree in Genomics from the [Madurai Kamraj University](http://
 
 
 
-- Domain knowledge of tumor biology, molecular biology, metabolism, biochemistry and (epi-)genomics
-- Multi -omic data analysis – *RNAseq, Microarray, 450/850K methylation array, CHIPseq, ATACseq* etc
-- Experience in analysing high throughput screening datasets
-- Experience with single-cell technologies, especially *scRNA-seq*
-- Machine Learning with focus on classification, regression and feature selection problems
-- Experience in handling data from *TCGA, GTeX, ENCODE, DepMap, Human cell atlas* etc
-- Scoring of molecular phenotypes using established gene signatures
-- Identification of molecular signatures in disease cohorts and associating it to clinical outcomes
-- Running and maintaining established NGS pipelines
-- Biological pathway analysis, Biomarker discovery, Pattern recognition, Data visualisation etc
-- Data interpretation, quality control, result documentation and effective communication
-- R statistical programming, Bioconductor, Bash, [Github](https://github.com/ashwini-kr-sharma/), Snakemake, Rmarkdown, Shiny, [Docker](https://hub.docker.com/u/ashwinikrsharma)
-- Some experience in cloud computing - OpenStack
+<!-- - Domain knowledge of tumor biology, molecular biology, metabolism, biochemistry and (epi-)genomics -->
+<!-- - Multi -omic data analysis – *RNAseq, Microarray, 450/850K methylation array, CHIPseq, ATACseq* etc -->
+<!-- - Experience in analysing high throughput screening datasets -->
+<!-- - Experience with single-cell technologies, especially *scRNA-seq* -->
+<!-- - Machine Learning with focus on classification, regression and feature selection problems -->
+<!-- - Experience in handling data from *TCGA, GTeX, ENCODE, DepMap, Human cell atlas* etc -->
+<!-- - Scoring of molecular phenotypes using established gene signatures -->
+<!-- - Identification of molecular signatures in disease cohorts and associating it to clinical outcomes -->
+<!-- - Running and maintaining established NGS pipelines -->
+<!-- - Biological pathway analysis, Biomarker discovery, Pattern recognition, Data visualisation etc -->
+<!-- - Data interpretation, quality control, result documentation and effective communication -->
+<!-- - R statistical programming, Bioconductor, Bash, [Github](https://github.com/ashwini-kr-sharma/), Snakemake, Rmarkdown, Shiny, [Docker](https://hub.docker.com/u/ashwinikrsharma) -->
+<!-- - Some experience in cloud computing - OpenStack -->
 
 
 ### Interpersonal Skills
