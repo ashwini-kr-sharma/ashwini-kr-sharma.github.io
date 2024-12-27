@@ -27,9 +27,6 @@ about:
 ::: {#bio}
 I am a Computational Biology Scientist at [GlaxoSmithKline (GSK)](https://www.gsk.com/en-gb/). 
 
-In over 10 years as a computational biologist, my work has broadly revolved around using statistical and computational tools to understand disease causing mechanisms using genomic and epigenomic data.
+In over 10 years as a computational biologist, my work has broadly revolved around using statistical and computational tools to understand disease causing mechanisms using genomic and epi-genomic data.
 
-::: {#landing-icons}
-[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/ashwinkr/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/ashwini-kr-sharma/){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:ashwinkr7@gmail.com)
-:::
 :::
