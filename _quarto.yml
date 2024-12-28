@@ -4,6 +4,13 @@ project:
   
 website:
   title: "AK Sharma"
+  cookie-consent:
+    type: express
+    style: simple
+    palette: light
+  google-analytics: 
+    tracking-id: "G-CLKLJ48B1Y"
+    anonymize-ip: true
   navbar:
     right:
       - href: index.qmd
