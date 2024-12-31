@@ -1,33 +1,91 @@
 ---
 title: "About"
-subtitle: "I am a Scientific Investigator - Computational Biology at [GlaxoSmithKline](https://www.gsk.com/en-gb/)"
+subtitle: "I am a Scientific Investigator for Computational Biology at [GlaxoSmithKline](https://www.gsk.com/en-gb/)"
 title-block-banner: true
+toc: true
+about:
+  template: solana
+  links:
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/ashwinkr/
+    #   target: _blank
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/ashwini-kr-sharma/
+    #   target: _blank
+    - text: <i class="ai ai-orcid" role="img"></i> Orchid
+      href: https://goo.gl/YW1Kcq
+      target: _blank
+    - text: <i class="ai ai-google-scholar" role="img"></i> Google Scholar
+      href: https://goo.gl/tvIoC2
+      target: _blank
 ---
-  
+
+<!-- {{< ai google-scholar >}} -->
+
+---
+
 ### Academic background
 
-My postdoctoral research focused on identifying the enhancer-driven regulatory subtypes in Neuroblastoma and understanding its developmental origins. I worked at the [Health Data Science Unit](https://www.hdsu.org/), Universitätsklinikum Heidelberg, Germany.
+#### Postdoctoral Research
+::: {style="font-size: 75%;"}
+(*2016-2021*)
+:::
 
-My doctoral research was on understanding the reprogramming of the metabolic landscape in tumors. I worked at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg and the [Hans Knöll Institute (HKI)](http://www.leibniz-hki.de/en/home.html) in Jena.
+::: {style="font-size: 90%;"}
+> - [Health Data Science Unit](https://www.hdsu.org/), Universitätsklinikum Heidelberg, Germany 
+> - [Institute of Pharmacy and Molecular Biotechnology and BioQuant](https://www.bioquant.uni-heidelberg.de/groups/herrmann), University Heidelberg, Germany
+> - [Division of Neuroblastoma Genomics](https://www.dkfz.de/en/neuroblastom-genomik/index.php), German Cancer Research Center (DKFZ), Heidelberg, Germany
+:::
 
-I have a Masters degree in Genomics from the [Madurai Kamraj University](http://www.genomicsmku.org/), India and a Bachelors degree in Biotechnology from [Vellore Institute of Technology](http://www.vit.ac.in/), India.
+My postdoctoral research focused on identifying the enhancer-driven regulatory subtypes in Neuroblastoma and understanding its developmental origins.
+
+#### Doctoral Research (PhD)
+::: {style="font-size: 75%;"}
+ (*2011-2016*)
+:::
+
+::: {style="font-size: 90%;"}
+> - [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany
+> - [Hans Knöll Institute (HKI)](http://www.leibniz-hki.de/en/home.html), Jena, Germany
+:::
+
+My doctoral research was on understanding the reprogramming of the metabolic landscape in tumors.
+
+#### MSc Genomics
+::: {style="font-size: 75%;"}
+(*2009-2011*)
+:::
+
+::: {style="font-size: 90%;"}
+> - [Madurai Kamraj University](http://www.genomicsmku.org/), Madurai, India
+:::
+
+#### BSc Biotechnology
+::: {style="font-size: 75%;"}
+(*2006-2009*)
+:::
+
+::: {style="font-size: 90%;"}
+> - [Vellore Institute of Technology](http://www.vit.ac.in/), Vellore, India.
+:::
 
 ---
 
 ### Management Skills
 
-- **Cross-functional team leadership:** I have worked in Matrix teams across multiple projects as the Computational Biology lead and  provided leadership to interdisciplinary projects. Communicated key insights to senior leadership to impact decision-making on early target portfolios
+- **Cross-functional team leadership:** I have worked in Matrix teams across multiple projects as the Computational Biology lead and  provided overall co-leadership to interdisciplinary projects. Communicated key insights to senior leadership to impact decision-making on early target portfolios
 
-- **Strategic planning & Project Management:** Set clear objectives and deliverables. Planned & executed computational biology experiments spread over 1 year + timescale. Managed talent resourcing, resolved blockers and met delivery timelines.
+- **Strategic planning & Project Management:** Set clear objectives and deliverables. Planned & executed computational biology experiments spread over > 1 year timescale. Managed talent resourcing, resolved blockers and met delivery timelines.
 
-- **Scientific communication:** All my projects have involved effectively communicating Computational Biology derived insights to leadership to impact decision making
+- **Scientific communication:** All my projects have involved effectively communicating Computational Biology derived insights to leadership to influence decision making
 
 ---
 
 ### Technical Skills
 
-
-- **Single cell analysis:** Expertise in single-cell RNAseq & ATACseq data analysis. Have performed data analyses for data QC, cell type annotation, data integration, trajectory inference, cell marker identification, differential gene expression analysis, transcriptional activity & gene regulation analysis etc
+- **Single cell analysis:** Expertise in single-cell RNAseq & ATACseq data analysis. Have performed data analyses for data QC, cell type annotation, data integration, trajectory inference, cell marker identification, differential gene expression analysis, transcriptional activity & gene regulation analysis
 
 - **Genome scale pooled & Arrayed Perturbation screening data analysis:** Expertise in high-throughput screening technologies like PerturbSeq/CROPseq, DRUGseq, PARSE, 10x & CRISPR-FACS-based functional genomics screens. Have performed data analyses for Hit identification, Target mechanism of action evaluation, Perturbation signature scoring etc
 
@@ -43,9 +101,3 @@ I have a Masters degree in Genomics from the [Madurai Kamraj University](http://
 
 - **Coding/Tools:** Have experience in R statistical programming, Bioconductor, Python, Bash & Conda
 
----
-
-::: {#landing-icons}
-[{{< fa brands github size=2x title="github" >}}](https://github.com/ashwini-kr-sharma/){target="_blank"} &nbsp; 
-[{{< fa brands google-scholar size=2x title="Google Scholar" >}}](https://goo.gl/tvIoC2){target="_blank"}
-:::

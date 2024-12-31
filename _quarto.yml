@@ -4,10 +4,10 @@ project:
   
 website:
   title: "AK Sharma"
-  cookie-consent:
-    type: express
-    style: simple
-    palette: light
+  # cookie-consent:
+  #   type: express
+  #   style: simple
+  #   palette: light
   google-analytics: 
     tracking-id: "G-CLKLJ48B1Y"
     anonymize-ip: true
@@ -25,14 +25,12 @@ website:
             text: LinkedIn
             href: https://www.linkedin.com/in/ashwinkr/
             target: _blank
-          - icon: twitter
-            text: (X) Twitter
+          - text: "{{< fa brands x-twitter >}}</i> X (Twitter)"
             href: https://twitter.com/aksbioinfo
             target: _blank
-          # - icon: bluesky
-          #   text: Bluesky
-          #   href: https://bsky.app/profile/compbio.bsky.social
-          #  target: _blank
+          - text: "{{< fa brands bluesky >}}</i> Bluesky"
+            href: https://bsky.app/profile/compbio.bsky.social
+            target: _blank
           - icon: envelope
             text: Email
             href: mailto:ashwinkr7@gmail.com
