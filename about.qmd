@@ -3,26 +3,6 @@ title: "About"
 subtitle: "I am a Scientific Investigator for Computational Biology at [GlaxoSmithKline](https://www.gsk.com/en-gb/)"
 title-block-banner: true
 toc: true
-about:
-  template: solana
-  links:
-    # - icon: linkedin
-    #   text: LinkedIn
-    #   href: https://www.linkedin.com/in/ashwinkr/
-    #   target: _blank
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com/ashwini-kr-sharma/
-    #   target: _blank
-    - text: <i class="ai ai-google-scholar" role="img"></i> Google Scholar
-      href: https://goo.gl/tvIoC2
-      target: _blank
-    - text: <i class="ai ai-orcid" role="img"></i> Orchid
-      href: https://goo.gl/YW1Kcq
-      target: _blank
----
-
-<!-- {{< ai google-scholar >}} -->
 ---
 
 ### Management Skills
@@ -57,51 +37,34 @@ about:
 
 ### Academic background
 
-#### Postdoctoral Research
-::: {style="font-size: 75%;"}
-(*2016-2021*)
-:::
+#### <u>Postdoctoral Research</u>
+My postdoctoral research focused on identifying the enhancer-driven [regulatory subtypes in Neuroblastoma](https://doi.org/10.1038/s43018-020-00145-w) and understanding its [developmental origins](https://doi.org/10.1038/s41588-021-00806-1)
 
 ::: {style="font-size: 90%;"}
-> - [Health Data Science Unit](https://www.hdsu.org/), Universitätsklinikum Heidelberg, Germany 
-> - [Institute of Pharmacy and Molecular Biotechnology and BioQuant](https://www.bioquant.uni-heidelberg.de/groups/herrmann), University Heidelberg, Germany
-> - [Division of Neuroblastoma Genomics](https://www.dkfz.de/en/neuroblastom-genomik/index.php), German Cancer Research Center (DKFZ), Heidelberg, Germany
+>- [Health Data Science Unit](https://www.hdsu.org/), Universitätsklinikum Heidelberg, Germany 
+>- [Institute of Pharmacy and Molecular Biotechnology and BioQuant](https://www.bioquant.uni-heidelberg.de/groups/herrmann), University Heidelberg, Germany
+>- [Division of Neuroblastoma Genomics](https://www.dkfz.de/en/neuroblastom-genomik/index.php), German Cancer Research Center (DKFZ), Heidelberg, Germany
 :::
 
 My postdoctoral research focused on identifying the enhancer-driven [regulatory subtypes in Neuroblastoma](https://doi.org/10.1038/s43018-020-00145-w) and understanding its [developmental origins](https://doi.org/10.1038/s41588-021-00806-1)
 
-#### Doctoral Research (PhD)
-::: {style="font-size: 75%;"}
- (*2011-2016*)
-:::
+#### <u>Doctoral Research</u> (PhD)
+My [doctoral research](https://doi.org/10.11588/heidok.00020332) was on understanding the reprogramming of the [metabolic landscape in tumors](https://doi.org/10.1158/0008-5472.CAN-15-2350)
+
+I was also involved in 5 different collaborations with experimental groups as lead computational biologist in topics related to non-coding RNA, immunotherapy, biomarker discovery and mechanism of action of a chemotherapeutic drug
 
 ::: {style="font-size: 90%;"}
 > - [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany
 > - [Hans Knöll Institute (HKI)](http://www.leibniz-hki.de/en/home.html), Jena, Germany
 :::
 
-My [doctoral research](10.11588/heidok.00020332) was on understanding the reprogramming of the [metabolic landscape in tumors](https://doi.org/10.1158/0008-5472.CAN-15-235)
+#### <u>MSc Genomics</u>
 
-I was also involved in 5 different collaborations with experimental groups as lead computational biologist in topics related to non-coding RNA, immunotherapy, biomarker discovery and mechanism of action of a chemotherapeutic drug
+For my Master's thesis, I worked on the structure-based rational design of a peptide inhibitor against HIF1alpha-HRE binding and its structural studies. I performed computational protein structure modeling and molecular dynamics studies
 
-#### MSc Genomics
-::: {style="font-size: 75%;"}
-(*2009-2011*)
-:::
+For my internship project, I worked on the expression, purification, crystallization and *in-silico* modeling of the *FadD9* protein from Mycobacterium tuberculosis. I performed cloning & transformation assays, protein isolation, western blotting, protein purification using chromatography techniques, protein crystallization and computational protein structure modeling
 
 ::: {style="font-size: 90%;"}
 > - [Madurai Kamraj University](http://www.genomicsmku.org/), Madurai, India
-:::
-
-For my Master's thesis, I worked on the structure-based rational design of a peptide inhibitor against HIF1alpha-HRE binding and its structural studies. I performed computational protein structure modeling and molecular dynamics studies
-                  
-For my internship project, I worked on the expression, purification, crystallization and *in-silico* modeling of the *FadD9* protein from Mycobacterium tuberculosis. I performed cloning & transformation assays, protein isolation, western blotting, protein purification using chromatography techniques, protein crystallization and computational protein structure modeling
-
-#### BSc Biotechnology
-::: {style="font-size: 75%;"}
-(*2006-2009*)
-:::
-
-::: {style="font-size: 90%;"}
-> - [Vellore Institute of Technology](http://www.vit.ac.in/), Vellore, India.
+> - [Center for Cellular and Molecular Biology](https://www.ccmb.res.in/), Hyderabad, India
 :::

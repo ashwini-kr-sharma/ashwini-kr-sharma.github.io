@@ -10,9 +10,12 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ashwinkr/
-    - icon: envelope
-      text: Email
-      href: mailto:ashwinkr7@gmail.com
+    - text: <i class="ai ai-google-scholar" role="img"></i> Google Scholar
+      href: https://goo.gl/tvIoC2
+      target: _blank
+    - text: <i class="ai ai-orcid" role="img"></i> Orcid
+      href: https://goo.gl/YW1Kcq
+      target: _blank
 ---
 
 ::: {#bio}
