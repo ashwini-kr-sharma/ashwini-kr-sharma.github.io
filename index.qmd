@@ -18,6 +18,8 @@ about:
       target: _blank
 ---
 
+<!-- {{< ai google-scholar >}} -->
+
 ::: {#bio}
 I am a Computational Biology Scientist at [GlaxoSmithKline (GSK)](https://www.gsk.com/en-gb/)
 
