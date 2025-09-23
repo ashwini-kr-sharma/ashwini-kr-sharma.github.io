@@ -1,23 +1,21 @@
 ---
 title: "About"
-subtitle: "I am a Scientific Investigator for Computational Biology at [GlaxoSmithKline](https://www.gsk.com/en-gb/)"
+subtitle: "I am a Senior Principal Scientist at [GlaxoSmithKline](https://www.gsk.com/en-gb/)"
 title-block-banner: true
 toc: true
 ---
 
 ### Management Skills
 
-- **Cross-functional team leadership:** I have worked in Matrix teams across multiple projects as the Computational Biology lead and  provided overall co-leadership to interdisciplinary projects. Communicated key insights to senior leadership to impact decision-making on early target portfolios
+- **Cross-functional team leadership & communication:** I have worked in Matrix teams across multiple projects as the Computational Biology lead and  provided overall co-leadership to interdisciplinary projects. Communicated key insights to senior leadership to impact decision-making on early target portfolios
 
-- **Strategic planning & Project Management:** Set clear objectives and deliverables. Planned & executed computational biology experiments spread over > 1 year timescale. Managed talent resourcing, resolved blockers and met delivery timelines.
-
-- **Scientific communication:** All my projects have involved effectively communicating Computational Biology derived insights to leadership to influence decision making
+- **Strategic planning & Project Management:** Set clear objectives and deliverables. Planned & executed computational biology experiments spread over > 1 year timescale. Managed talent resourcing, resolved blockers, assessed risks and met delivery timelines.
 
 ---
 
 ### Technical Skills
 
-- **Single cell analysis:** Expertise in single-cell RNAseq & ATACseq data analysis. Have performed data analyses for data QC, cell type annotation, data integration, trajectory inference, cell marker identification, differential gene expression analysis, transcriptional activity & gene regulation analysis
+- **Single cell analysis:** Expertise in single-cell data analysis - data QC, cell type annotation, cell marker identification, differential gene expression analysis, data integration, trajectory inference, transcriptional activity & gene regulation analysis
 
 - **Genome scale pooled & Arrayed Perturbation screening data analysis:** Expertise in high-throughput screening technologies like PerturbSeq/CROPseq, DRUGseq, PARSE, 10x & CRISPR-FACS-based functional genomics screens. Have performed data analyses for Hit identification, Target mechanism of action evaluation, Perturbation signature scoring etc
 

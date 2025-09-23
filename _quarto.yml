@@ -17,6 +17,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: teaching.qmd
+        text: Teaching
       - href: CV/Sharma_Resume_2024.pdf
         text: CV
       - text: Contact
